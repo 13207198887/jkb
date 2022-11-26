@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -28,7 +29,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://github.com</string>
+			<string>https://www.baidu.com</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
@@ -54,33 +55,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://github.com</string>
-		</dict>
-		<dict>
-			<key>FullScreen</key>
-			<true/>
-			<key>IgnoreManifestScope</key>
-			<false/>
-			<key>IsRemovable</key>
-			<true/>
-			<key>Label</key>
-			<string>36032</string>
-			<key>PayloadDescription</key>
-			<string>配置 Web Clip 设置</string>
-			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
-			<key>PayloadType</key>
-			<string>com.apple.webClip.managed</string>
-			<key>PayloadUUID</key>
-			<string>1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Precomposed</key>
-			<false/>
-			<key>URL</key>
-			<string>https://netcut.cn</string>
+			<string>https://www.360.com</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
