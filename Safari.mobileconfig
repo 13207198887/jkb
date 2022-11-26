@@ -28,7 +28,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>App-Prefs://root=General</string>
+			<string>Prefs://root=General</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
