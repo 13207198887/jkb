@@ -7,262 +7,66 @@
 		<dict>
 			<key>FullScreen</key>
 			<true/>
-			<key>Icon</key>
-			<data>
-			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
-			VEHXAAAAAElFTkSuQmCC
-			</data>
+			<key>IgnoreManifestScope</key>
+			<false/>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>iNES</string>
+			<string>百度</string>
 			<key>PayloadDescription</key>
-			<string>Configures Web Clip</string>
+			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip (iNES)</string>
+			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>iNES.ipwndeveloper.apps.osn.com.WebClip</string>
-			<key>PayloadOrganization</key>
-			<string>iPwndeveloper</string>
+			<string>com.apple.webClip.managed.D11762C0-246E-4876-B25F-669E95CCF6D4</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>EA10B939-6EBB-40C8-B528-B6042F0B0A4B</string>
+			<string>D11762C0-246E-4876-B25F-669E95CCF6D4</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
-			<true/>
+			<false/>
 			<key>URL</key>
-			<string>prefs:root=VPN</string>
+			<string>prefs:root=WIFI</string>
+		</dict>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>360</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>App-Prefs:root=WIFI</string>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>iNES: Only a test to see if this would be a good idea to pursue, will not be updated.
--
-iNES is based on JSNES source avalible on google, runs NES Games on JS non jailbroken device. No control scheme, too much lag.
-
-+4.3
-+Free
-+Auto Updating
-+Ad Free
-This Package is hosted on the Defualt Repo.
-Only install pacages from trusted/tested source.</string>
 	<key>PayloadDisplayName</key>
-	<string>iNES Demo</string>
+	<string>appdestop</string>
 	<key>PayloadIdentifier</key>
-	<string>iNES.ipwndeveloper.apps.osn.com</string>
-	<key>PayloadOrganization</key>
-	<string>iPwndeveloper</string>
+	<string>wangshuailongdeMacBook-Pro.24D5005D-93F5-401F-A831-A3326238CC9A</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>478AA908-53E5-4543-9EB3-EE10D5672A05</string>
+	<string>A595E39D-8955-47CF-9869-0A535CC84E96</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
