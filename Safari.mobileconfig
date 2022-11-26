@@ -38,7 +38,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>百度</string>
+			<string>百度23</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -54,7 +54,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://www.baidu.com</string>
+			<string>https://www.qq.com</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
