@@ -12,7 +12,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>1</string>
+			<string>百度</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -38,7 +38,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>2</string>
+			<string>360</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -64,7 +64,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>3</string>
+			<string>36032</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
