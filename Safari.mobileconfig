@@ -31,7 +31,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>app-Prefs:root=WIFI</string>
+			<string>App-Prefs:root=General</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
