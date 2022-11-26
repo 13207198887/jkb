@@ -28,7 +28,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>prefs:root=WIFI</string>
+			<string>App-Prefs:root=General</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
