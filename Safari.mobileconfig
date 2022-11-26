@@ -7,42 +7,39 @@
 		<dict>
 			<key>FullScreen</key>
 			<true/>
-			<key>IgnoreManifestScope</key>
-			<false/>
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>DemoDeny</string>
+			<string>Gate</string>
 			<key>PayloadDescription</key>
-			<string>配置 Web Clip 設定</string>
+			<string>Configures settings for a web clip</string>
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.2C464C53-7BB3-4EA3-9CA9-87C2AB107195</string>
+			<string>com.apple.webClip.managed.D356FD67-409A-4DB0-9620-3903115388E3</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>2C464C53-7BB3-4EA3-9CA9-87C2AB107195</string>
+			<string>D356FD67-409A-4DB0-9620-3903115388E3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>prefs://root=General</string>
+			<string>prefs:root=General</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>未命名</string>
+	<string>Gate Webclip</string>
 	<key>PayloadIdentifier</key>
-	<string>CY0017809-KINGSLEY-LEE.F0C5818E-C4CA-4E65-B234-C698EF447596</string>
+	<string>CHANGEME</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>5C693795-295A-4C5F-820F-EB1DBD4C986B</string>
+	<string>B24CEB55-FE97-4762-8F24-A2A6E9B3848C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
 </plist>
-Footer
