@@ -28,7 +28,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>App-Prefs:root=General</string>
+			<string>prefs:root=General</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
@@ -54,7 +54,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>Prefs:root=General</string>
+			<string>prefs:root=General&path=VPN</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
