@@ -54,7 +54,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>prefs:root=General</string>
+			<string>Prefs:root=General</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
