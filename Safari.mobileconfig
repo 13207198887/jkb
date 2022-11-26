@@ -1,73 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>FullScreen</key>
-			<true/>
-			<key>IgnoreManifestScope</key>
-			<false/>
-			<key>IsRemovable</key>
-			<true/>
-			<key>Label</key>
-			<string>百度</string>
-			<key>PayloadDescription</key>
-			<string>配置 Web Clip 设置</string>
-			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.D11762C0-246E-4876-B25F-669E95CCF6D4</string>
-			<key>PayloadType</key>
-			<string>com.apple.webClip.managed</string>
-			<key>PayloadUUID</key>
-			<string>D11762C0-246E-4876-B25F-669E95CCF6D4</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Precomposed</key>
-			<false/>
-			<key>URL</key>
-			<string>App-Prefs:root=General</string>
-		</dict>
-		<dict>
-			<key>FullScreen</key>
-			<true/>
-			<key>IgnoreManifestScope</key>
-			<false/>
-			<key>IsRemovable</key>
-			<true/>
-			<key>Label</key>
-			<string>360</string>
-			<key>PayloadDescription</key>
-			<string>配置 Web Clip 设置</string>
-			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
-			<key>PayloadType</key>
-			<string>com.apple.webClip.managed</string>
-			<key>PayloadUUID</key>
-			<string>1149FFA8-A8E1-47E1-B695-FB4081A4008C</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Precomposed</key>
-			<false/>
-			<key>URL</key>
-			<string>App-prefs:root=General</string>
-		</dict>
-	</array>
-	<key>PayloadDisplayName</key>
-	<string>appdestop</string>
-	<key>PayloadIdentifier</key>
-	<string>wangshuailongdeMacBook-Pro.24D5005D-93F5-401F-A831-A3326238CC9A</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>A595E39D-8955-47CF-9869-0A535CC84E96</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-</dict>
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FullScreen</key>
+				<true />
+				<key>Label</key>
+				<string>Test</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Clip #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadType</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadUUID</key>
+				<string>9afb7b4d-59f3-4495-ba61-364048062693</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>Precomposed</key>
+				<true />
+				<key>URL</key>
+				<string>prefs:root=General&path=VPN</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Apps</string>
+		<key>PayloadIdentifier</key>
+		<string>AMANITEK-G560XZ.123cffaf-399a-4eab-a063-0f7c5c39cbd5</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>df5f75fc-fef6-4a2c-8b79-a6a6cde169fc</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
 </plist>
