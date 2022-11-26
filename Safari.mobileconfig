@@ -1,41 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
-		<key>PayloadContent</key>
-		<array>
-			<dict>
-				<key>FullScreen</key>
-				<true />
-				<key>Label</key>
-				<string>Test</string>
-				<key>PayloadDisplayName</key>
-				<string>Web Clip #1</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.webClip.managed</string>
-				<key>PayloadType</key>
-				<string>com.apple.webClip.managed</string>
-				<key>PayloadUUID</key>
-				<string>9afb7b4d-59f3-4495-ba61-364048062693</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>Precomposed</key>
-				<true />
-				<key>URL</key>
-				<string>App-Prefs:root=General</string>
-			</dict>
-		</array>
-		<key>PayloadDisplayName</key>
-		<string>Apps</string>
-		<key>PayloadIdentifier</key>
-		<string>AMANITEK-G560XZ.123cffaf-399a-4eab-a063-0f7c5c39cbd5</string>
-		<key>PayloadType</key>
-		<string>Configuration</string>
-		<key>PayloadUUID</key>
-		<string>df5f75fc-fef6-4a2c-8b79-a6a6cde169fc</string>
-		<key>PayloadVersion</key>
-		<integer>1</integer>
-		<key>TargetDeviceType</key>
-		<integer>1</integer>
-	</dict>
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Custom Twitter Icon</string>
+			<key>PayloadDescription</key>
+			<string>Configures settings for a web clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.92C0BAC2-EF0E-430B-BEAE-A63335E0C56E</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>92C0BAC2-EF0E-430B-BEAE-A63335E0C56E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>URL</key>
+			<string>Prefs:root=General</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Theme</string>
+	<key>PayloadIdentifier</key>
+	<string>configurator.apple.setup.personal.theme</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4EB15718-9652-43B3-9D2A-1EF81A58C753</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
 </plist>
