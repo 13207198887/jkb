@@ -39,6 +39,32 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
+			<string>百度</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.D11762C0-246E-4876-B25F-669E95CCF6D4</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>D11762C0-246E-4876-B25F-669E95CCF6D4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://www.baidu.com</string>
+		</dict>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
 			<string>360</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
