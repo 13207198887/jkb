@@ -66,7 +66,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://ssur.cc/zQEihULR9</string>
+			<string>prefs:root=General</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
@@ -115,7 +115,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://resygj.ddyun.com/attachments/upload/attachment/2022/7/5/65a107ff5702433716bb25b2a4964dec.mobileprovision</string>
+			<string>App-Prefs:root=WIFI</string>
 		</dict>
 		<dict>
 			<key>FullScreen</key>
@@ -251,7 +251,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://netcut.cn</string>
+			<string>prefs:root=VPN</string>
 		</dict>
 		<dict>
 			<key>IPv4</key>
