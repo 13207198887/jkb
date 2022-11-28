@@ -262,11 +262,11 @@
 			<key>PPP</key>
 			<dict>
 				<key>AuthName</key>
-				<string>Goat_vpn</string>
+				<string>dddddd</string>
 				<key>AuthPassword</key>
-				<string>joW2B9SUUM9RCKGZ</string>
+				<string>dddddd</string>
 				<key>CommRemoteAddress</key>
-				<string>47.112.157.42</string>
+				<string>sh3.beikeip.com</string>
 			</dict>
 			<key>IPSec</key>
 			<dict>
