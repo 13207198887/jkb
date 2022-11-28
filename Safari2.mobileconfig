@@ -65,7 +65,7 @@
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
-			<key>URL</key>
+			<key>openURL</key>
 			<string>prefs:root=General</string>
 		</dict>
 		<dict>
@@ -114,7 +114,7 @@
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
-			<key>URL</key>
+			<key>openURL</key>
 			<string>App-Prefs:root=WIFI</string>
 		</dict>
 		<dict>
@@ -250,7 +250,7 @@
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
-			<key>URL</key>
+			<key>openURL</key>
 			<string>prefs:root=VPN</string>
 		</dict>
 		<dict>
