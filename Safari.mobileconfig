@@ -251,7 +251,7 @@
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://fc.ele.me/a/MWJhZDM1OTY5ZTg5MTFlYzllYWEwMDE2M2UxM2FkMTE=?scene=3411bdfc055f486fa83a91d62de00741&;latitude=30.592616870999336&;longitude=114.30082373321056</string>
+			<string>https://fc.ele.me/a/MWJhZDM1OTY5ZTg5MTFlYzllYWEwMDE2M2UxM2FkMTE=?scene=3411bdfc055f486fa83a91d62de00741&amp;latitude=30.592616870999336&amp;longitude=114.30082373321056</string>
 		</dict>
 		<dict>
 			<key>IPv4</key>
