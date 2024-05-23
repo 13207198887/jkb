@@ -33,9 +33,9 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.eleme</string>
+					<string>me.ele.ios.eleme.10.12</string>
 					<key>bundle-version</key>
-					<string>11.10.38</string>
+					<string>10.12.38</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
