@@ -33,7 +33,7 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.me.ele.ios.eleme</string>
+					<string>com.eleme</string>
 					<key>bundle-version</key>
 					<string>11.11.38</string>
 					<key>kind</key>
